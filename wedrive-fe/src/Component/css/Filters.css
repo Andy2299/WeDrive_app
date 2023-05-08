@@ -1,0 +1,24 @@
+.btnFilter{
+  background: none !important;
+  color: #00B889 !important; 
+  border: #00B889 2px solid !important;
+}
+.filters{
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 7px 34px -1px rgba(0, 0, 0, 0.083);
+}
+.btn-filterA{
+  margin-top: 10px;
+  background: none !important;
+  color: #00B889 !important; 
+  border: #00B889 2px solid !important;
+}
+.serviceCards{
+  margin-bottom: 8rem;
+}

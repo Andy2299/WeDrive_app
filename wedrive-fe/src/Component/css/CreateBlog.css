@@ -1,0 +1,22 @@
+.containerBlog{
+
+
+}
+.bodyBlog{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.containerBodyBlog{
+  padding: 20px;
+  border: 1px solid #313131;
+  border-radius: 10px;
+
+}
+.btn-blogCreate{
+  background: none !important;
+  color: #00B889 !important; 
+  border: #00B889 2px solid !important;
+}

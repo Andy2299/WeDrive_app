@@ -1,0 +1,50 @@
+/* src/Component/Vehicles.css */
+.vehicles-container {
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.filters {
+  margin-top: 10rem;
+  flex: 1 1 300px;
+  max-width: 300px;
+}
+.containerCarts{
+  /* border: 2px solid #0a0afd; */
+  margin-left: 4rem;
+  margin-bottom: 8rem;
+}
+.bodyCarts{
+
+  border-radius: 10px;
+  width: 14rem;
+  margin: 0px -40px !important;
+  /* margin: 20px; */
+  box-shadow: 0px 7px 34px -1px rgba(0, 0, 0, 0.24);
+
+}
+.textCar{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  background: #fff;
+  
+}
+.textCar p {
+  margin: 0px;
+  padding: 10px;
+}
+.color{
+  background-color: rgb(237, 237, 237);
+}
+.bodyCarts img {
+  width: 100%;
+  border-radius: 10px;
+}
+.containerCardsCar{
+  /* border: 2px solid #ff0909; */
+  margin-top: 5rem;
+ 
+}
+

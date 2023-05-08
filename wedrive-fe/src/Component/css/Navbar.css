@@ -1,0 +1,14 @@
+@media (min-width: 1024px){
+  .nav-link{
+    padding-bottom: 0px !important;
+  }
+  .active{
+    border-bottom: 2px solid #00B889;
+  }
+  .login {
+    color: #00B889 !important;
+  }
+}
+.login {
+  color: #00B889 !important;
+}

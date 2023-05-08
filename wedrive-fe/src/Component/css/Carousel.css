@@ -1,0 +1,49 @@
+.div-banner1{
+
+ height: 100vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.container-1{
+
+}
+.container-1 img{
+  width: 10%;
+  margin-top: -10vw;
+}
+.container-1 h2{
+  font-size: 13vw;
+  padding-left: 30vw;
+  font-weight: bold;
+}
+#idMarca{
+  margin-top: -4.3vw;
+  font-size: 4vw;
+  color: #00B889;
+  font-weight: bold;
+}
+.container-1 p{
+  padding-left: 59vw;
+}
+.bannerInfo{
+  display: flex;
+  justify-content: center;
+  gap: 10rem;
+  
+}
+.bannerInfo p{
+  padding: 0px;
+}
+#infoBanner{
+  margin-top: -1.9rem;
+  font-size: 1vw;
+}
+.tituleBanner{
+  font-size: 2vw;
+  font-weight: bold;
+}
+.tituleBanner span{
+  color: #00B889;
+}

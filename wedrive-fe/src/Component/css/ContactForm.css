@@ -1,0 +1,8 @@
+.contactForm{
+  margin-bottom: 8rem;
+}
+.btn-send{
+  background: none !important;
+  color: #00B889 !important; 
+  border: #00B889 2px solid !important;
+}
